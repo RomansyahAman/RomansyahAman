@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Saya Muh. Aman Romansyah! 👋
+
+IoT & Robotics enthusiast. Passionate about bridging hardware and software into integrated systems.
+
+---
+
+### 🛠 Tech Stack
+- **Languages:** Python, C, PHP
+- **Web:** HTML, CSS
+- **Embedded:** Microcontroller, ESP32, Raspberry Pi
+- **OS:** Linux
+
+---
+
+"Programmer: A machine that turns caffeine into code. (But honestly, I prefer the 'copy-paste' part.)"
