@@ -23,7 +23,6 @@ IoT & Robotics enthusiast. Passionate about bridging hardware and software into 
 ### 🛠 Tech Stack
 - **Languages:** Python, C, PHP
 - **Embedded:** Microcontroller, ESP32, Raspberry Pi
-- **OS:** Linux
 
 ---
 
